@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "448832616506",
+    "project_id": "beeeeer-auth",
+    "storage_bucket": "beeeeer-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448832616506:android:5e7efbebaa4fb4b1651d03",
+        "android_client_info": {
+          "package_name": "com.ejercicio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448832616506-catt27i2v65i0qmeedbkrhj2046anja9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzaI_kuTe7fQ0OisDo80K45VCVQwqEmJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448832616506-catt27i2v65i0qmeedbkrhj2046anja9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448832616506-uk14r2acd4a85l6fgj6t098gus3e8ouf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Ejercicio2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
